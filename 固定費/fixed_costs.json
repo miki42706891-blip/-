@@ -1,0 +1,18 @@
+[
+ {"id":"b1","kubun":"事業用","name":"Claude Pro（Anthropic）","pay":"GMOあおぞら デビット","day":"毎月20〜21日","amount":3600,"status":"継続","note":"$22/月。円額は為替で変動（10月 3,597円）"},
+ {"id":"b2","kubun":"事業用","name":"Adobe（After Effects）","pay":"GMOあおぞら デビット","day":"毎月18日","amount":3280,"status":"継続","note":"10/13 無料体験開始 → 10/18 から課金"},
+ {"id":"b3","kubun":"事業用","name":"Adobe（2件目・Premiere Pro?）","pay":"GMOあおぞら デビット","day":"毎月20日","amount":3280,"status":"要確認","note":"10/20 にも同額の Adobe KK 引き落とし。重複契約でないか確認"},
+ {"id":"b4","kubun":"事業用","name":"リベシティ 応援会費","pay":"マネーフォワード ビジネスカード","day":"毎月1日","amount":5500,"status":"継続","note":"11/1 残高不足で失敗 → 11/2 チャージ後 5,316円で決済"},
+ {"id":"b5","kubun":"事業用","name":"Google One 200GB","pay":"マネーフォワード ビジネスカード","day":"毎月27〜28日","amount":440,"status":"継続","note":"Google Play 経由（Visa-2982）"},
+ {"id":"b6","kubun":"事業用","name":"Zoom プロ","pay":"GMOあおぞら デビット","day":"毎月5日","amount":2952,"status":"解約済","note":"11/5 解約。12/4 まで利用可。以降は請求なし"},
+ {"id":"b7","kubun":"事業用","name":"Claude 追加利用（前払い）","pay":"GMOあおぞら デビット","day":"不定期","amount":16199,"status":"変動","note":"$99。9/15 15,819円・10/14 16,199円。固定費の合計には含めない"},
+ {"id":"h1","kubun":"家庭","name":"楽天証券 投信積立","pay":"楽天カード","day":"毎月16日","amount":39270,"status":"継続","note":"投資（貯蓄）。生活費とは分けて管理"},
+ {"id":"h2","kubun":"家庭","name":"ダイコン コンタクト定額","pay":"クレジットカード","day":"毎月24日頃","amount":1900,"status":"継続","note":"月額1,900円＋年会費3,000円（更新時）"},
+ {"id":"h3","kubun":"家庭","name":"YouTube Premium","pay":"Google Play（Visa-8122）","day":"毎月7日","amount":1280,"status":"継続","note":""},
+ {"id":"h4","kubun":"家庭","name":"iCloud+ 200GB","pay":"Apple","day":"毎月","amount":540,"status":"継続","note":"8/27 から 450→540円。容量ほぼ上限（2TBは1,800円）"},
+ {"id":"h5","kubun":"家庭","name":"日本通信 合理的みんなのプラン","pay":"要確認","day":"毎月10日","amount":null,"status":"要確認","note":"請求メールに金額なし。マイページで確認"},
+ {"id":"h6","kubun":"家庭","name":"ベネッセ チャレンジスクール","pay":"楽天カード","day":"要確認","amount":null,"status":"要確認","note":"プログラミング by マインクラフト。7/29 に 980円の請求あり"},
+ {"id":"h7","kubun":"家庭","name":"進研ゼミ 小学講座","pay":"要確認","day":"要確認","amount":null,"status":"要確認","note":"11/4 に 2027年度4年生の教材手続きあり"},
+ {"id":"h8","kubun":"家庭","name":"povo2.0","pay":"GMOあおぞら デビット","day":"使った月のみ","amount":0,"status":"変動","note":"9月・10月は 0円。トッピング未購入が続くと停止の案内あり"},
+ {"id":"h9","kubun":"家庭","name":"自動車保険（ムーヴ）","pay":"要確認","day":"年1回（10/31満期）","amount":null,"status":"要確認","note":"更新先と金額をメールで確認できず。参考：チューリッヒ見積 年45,070円"}
+]
